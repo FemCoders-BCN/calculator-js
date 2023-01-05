@@ -2,15 +2,15 @@
 
 ## ES
 
-- Objetivo
+- Objetivo:
   Deberás crear una aplicación que tenga las 4 funciones básicas de una calculadora (suma, resta, multiplicación y división).
   La calculadora tendrá una pantalla donde se visualicen las operaciones y resultados de ellas, deberá empezar en 0.
   Además deberá existir un botón que permita hacer un reset a 0 y otro botón con un signo de igual que mostrará el resultado en pantalla de la operación que realices.
 
-- Estructuración de carpetas
+- Estructuración de carpetas:
   No te olvides de mantener tus archivos lo más organizados posibles.
 
-- Temas a practicar
+- Temas a practicar:
   Uso de funciones, eventos, manipulación del DOM, CSS (diseño a tu gusto).
 
 - ¿Quieres subir tu nivel?
@@ -23,15 +23,15 @@
 
 ## EN
 
-- Purpose
+- Purpose:
   You will have to create an application that has the 4 basic functions of a calculator (addition, subtraction, multiplication and division).
   The calculator will have a screen where the operations and results of them are displayed, it must start at 0.
   There must also be a button that allows you to reset to 0 and another button with an equal sign that will show the result of the operation you perform on the screen.
 
-- Folder structure
+- Folder structure:
   Don't forget to keep your files as organized as possible.
 
-- Topics to practice
+- Topics to practice:
   Use of functions, events, DOM manipulation, CSS (free design).
 
 - Do you want to raise your level?
