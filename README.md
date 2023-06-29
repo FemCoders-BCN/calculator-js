@@ -15,7 +15,7 @@
 
 - ¿Quieres subir tu nivel?
   Intenta hacer tu aplicación con TDD. Eso quiere decir que escribirás primero el test, lo harás fallar, luego escribirás tu función y la harás pasar. Te recomiendo que utilices JEST para pasar los tests. Y no te olvides de poner un archivo .gitignore para que la carpeta node-modules no se suba al repositorio en github, te dejo un link donde puedes crear tu archivo gitignore:
-  https://www.toptal.com/developers/gitignore (las opcones que puedes poner para generarlo son windows, macos, linux y node)
+  https://www.toptal.com/developers/gitignore (las opciones que puedes poner para generarlo son windows, macos, linux y node)
 
 ---
 
